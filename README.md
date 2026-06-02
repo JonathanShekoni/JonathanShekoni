@@ -39,4 +39,4 @@
 
 ## 📊 GitHub Stats
 
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanShekoni&show_icons=true&theme=dark)
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanShekoni&show_icons=true&theme=dark&cache_seconds=1800)
