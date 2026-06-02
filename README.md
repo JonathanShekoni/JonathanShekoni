@@ -35,8 +35,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
----
 
-## 📊 GitHub Stats
-
-![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanShekoni&show_icons=true&theme=dark&cache_seconds=1800)
